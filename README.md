@@ -9,7 +9,7 @@
 1. 自动 Assign 给 `Maoyeedy`
 2. 添加到 https://github.com/orgs/Psyqualogy/projects/1
 
-**新建Issue注意事项**
+**新建Issue注意事项：**
 
 1. 标题为：feat/内容；duck/内容；ui/内容；bug/内容
 2. 在右栏选择一个对应的 label （例如新的关卡道具，则选feature）
