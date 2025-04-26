@@ -1,8 +1,8 @@
-# [Project](https://github.com/orgs/Psyqualogy/projects/1/views/2)
+## [Project](https://github.com/orgs/Psyqualogy/projects/1/views/2)
 ![image](https://github.com/user-attachments/assets/ad3bda27-7728-4c84-bea2-1ffd3cf14737)
 
 
-# [Issues](https://github.com/Psyqualogy/Project-Psyqualogy/issues/)
+## [Issues](https://github.com/Psyqualogy/Project-Psyqualogy/issues/)
 
 只要新增一个请求，就会：
 
