@@ -1,15 +1,17 @@
-# [Project](https://github.com/orgs/Psyqualogy/projects/1/views/2)
-![image](https://github.com/user-attachments/assets/ad3bda27-7728-4c84-bea2-1ffd3cf14737)
+# [Feature Requests](https://github.com/orgs/Psyqualogy/projects/1/views/2)
+
+![image](https://github.com/user-attachments/assets/9f800be4-0116-44ac-b6cc-eb1c00695b42)
 
 
 # [Issues](https://github.com/Psyqualogy/Project-Psyqualogy/issues/)
 
-只要新增一个请求，就会：
+只要在[这里](https://github.com/Psyqualogy/Project-Psyqualogy/issues/)新增一个请求，就会：
 
-1. 自动 Assign 给 `Maoyeedy`
-2. 添加到 https://github.com/orgs/Psyqualogy/projects/1
+1. 自动分配给 `Maoyeedy`
+2. 自动添加到 [Feature Requests](https://github.com/orgs/Psyqualogy/projects/1/views/2)
 
 **新建Issue注意事项：**
 
-1. 标题尽量简单
-2. 在右栏选择一个对应的 label （例如新的关卡道具，则选feature）
+1. Title 尽量简单
+2. Description 可以加具体描述，和截图参考
+3. 必须要在右栏选择对应的 label
