@@ -5,7 +5,7 @@
 
 # [Issues](https://github.com/Psyqualogy/Project-Psyqualogy/issues/)
 
-只要在[这里](https://github.com/Psyqualogy/Project-Psyqualogy/issues/)新增一个请求，就会：
+点击[这里](https://github.com/Psyqualogy/Project-Psyqualogy/issues/new)新建Issue，就会：
 
 1. 自动分配给 `Maoyeedy`
 2. 自动添加到 [Feature Requests](https://github.com/orgs/Psyqualogy/projects/1/views/2)
